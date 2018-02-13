@@ -7,7 +7,7 @@ Yeah It's useless. I just made this for my hobby.
 
 Anyway, I didn't care about bugs with other environment while developing. So if you have some trouble with this, please fix yourself.
 
-And don't get disturb with my codes. I know my codes are suck.
+And don't blame me with my codes. I know my codes are suck.
 
 If you want to use without build, just execute bin/EQLED.exe. and if you wanna move directory, don't forget bass.dll.
 
